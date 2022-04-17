@@ -5,7 +5,7 @@ import {
   Route,
   Link
 } from "react-router-dom";
-import { Home, About, Users } from './components';
+import { Home, About, Users } from './pages';
 
 export default function App() {
   return (
